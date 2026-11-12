@@ -1,0 +1,24 @@
+# Explicit publication allowlist.
+/*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/LICENSE
+!/VERSION
+!/agents/
+!/references/
+
+/agents/*
+!/agents/openai.yaml
+
+/references/*
+!/references/photographic-quality.md
+!/references/prompt-examples.md
+!/references/benchmarks.md
+!/references/benchmarks/
+
+/references/benchmarks/*
+!/references/benchmarks/studio-product.png
+!/references/benchmarks/daylight-garden.png
+!/references/benchmarks/material-closeup.png
+!/references/benchmarks/scene-base.png

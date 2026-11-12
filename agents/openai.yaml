@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用场景图生成"
+  short_description: "生成有自然光影、真实质感与清楚明暗层次的通用场景、环境底图和产品摄影图"
+  default_prompt: "请用 $product-scene-studio，根据我的场景需求和可用参考生成图片，参考随包摄影基准与光影质感，默认不添加文案。"
